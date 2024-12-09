@@ -1,16 +1,19 @@
 {
     "name": "robotics",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Creative Robotics Kit for micro:bit is a robotics platform based on the micro:bit controller.",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.2"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "robotics.ts"
+        "robotics.ts",
+        "_locales/zh-cn/robotics-strings.json",
+        "_locales/zh-cn/robotics-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

@@ -1,24 +1,25 @@
+# Creative Robotics Kit for micro:bit
+[]()
+[Module Document Address]()
 
-> 在 [https://zhang-tang.github.io/robotics/](https://zhang-tang.github.io/robotics/) 打开此页面
+## Basic usage
 
-## 用作扩展
+### Motor
 
-此仓库可以作为 **插件** 添加到 MakeCode 中。
+### Servo
 
-* 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 点击 **新项目**
-* 点击齿轮图标菜单下的 **扩展**
-* 搜索 **https://github.com/zhang-tang/robotics** 并导入
+### Sensor
 
-## 编辑此项目
+### RGB
 
-在 MakeCode 中编辑此仓库。
+## License
 
-* 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 点击 **导入**，然后点击 **导入 URL**
-* 粘贴 **https://github.com/zhang-tang/robotics** 并点击导入
+MIT
 
-#### 元数据（用于搜索、渲染）
+Copyright (c) 2020, microbit/micropython Chinese community  
+
+## Supported targets
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
